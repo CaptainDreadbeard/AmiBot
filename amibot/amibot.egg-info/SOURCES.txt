@@ -1,0 +1,11 @@
+LICENSE.txt
+README.txt
+pyproject.toml
+amibot/__init__.py
+amibot/core.py
+amibot/personality.py
+amibot.egg-info/PKG-INFO
+amibot.egg-info/SOURCES.txt
+amibot.egg-info/dependency_links.txt
+amibot.egg-info/entry_points.txt
+amibot.egg-info/top_level.txt

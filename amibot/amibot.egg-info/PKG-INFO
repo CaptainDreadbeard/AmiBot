@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: amibot
+Version: 1.0.0
+Summary: A tiny CLI chatbot with memory, personality, and persistent state.
+Author: Robin
+Project-URL: Homepage, https://github.com/YOUR_GITHUB_USERNAME/AmiBot
+Project-URL: Source, https://github.com/YOUR_GITHUB_USERNAME/AmiBot
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Dynamic: license-file
