@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Local memory file (dont publish your personal chat history)
+amibot/longterm_memory.json
+
+# Logs
+logs/

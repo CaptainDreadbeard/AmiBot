@@ -1,0 +1,27 @@
+[project]
+name = "amibot"
+version = "1.0.1"
+description = "A tiny CLI chatbot with memory, personality, and persistent state."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+
+authors = [
+    { name = "Robin Tumbleweed Bolin" }
+]
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/YOUR_GITHUB_USERNAME/AmiBot"
+Source = "https://github.com/YOUR_GITHUB_USERNAME/AmiBot"
+
+[project.scripts]
+amibot = "amibot.core:run"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["amibot"]
