@@ -1,0 +1,46 @@
+User: hi
+AmiBot: Hey there, I'm AmiBot. What's on your mind?
+User: I'm happy
+AmiBot: I love that for you!!!
+User: How are you today??
+AmiBot: You have me curious!
+User: I like ice cream
+AmiBot: Ice cream? Solid choice, champ. What flavor we talkin?
+User: strawberry
+AmiBot: Go on...
+User: im happy
+AmiBot: I love that for you!!!
+User: but im tired
+AmiBot: Was it a long day, champ?
+User: it was a very long day
+AmiBot: That's fantastic!!!
+User: hi
+AmiBot: Hey there, I'm AmiBot. What's on your mind?
+User: Im feeling happy today my name is Robin
+AmiBot: That's awesome -- what made you feel that way?
+User: I love pretty women
+AmiBot: Thats fascinating, please tell me more! 😊
+User: im tired
+AmiBot: you deserve some rest
+User: hey
+AmiBot: Hey there, I'm AmiBot. What's on your mind?
+User: /time
+AmiBot: The current time is 20:39:36
+User: /date
+AmiBot: Today is 2026-06-18.
+User: /joke
+AmiBot: I told my laptop I needed a break… now it won’t stop sending me vacation ads.
+User: /roll
+AmiBot: You rolled a 6.
+User: /coin
+AmiBot: Tails
+User: clear
+AmiBot: Hmm, how do you figure?
+User: /clear
+AmiBot: Hmm, how do you figure?
+User: hello
+AmiBot: Hey there, I'm AmiBot. What's on your mind?
+User: ice cream
+AmiBot: Ice cream? Solid choice, champ. What flavor we talkin?
+User: chocolate
+AmiBot: Hmm, how do you figure?

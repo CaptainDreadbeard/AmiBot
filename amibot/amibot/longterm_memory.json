@@ -1,0 +1,12 @@
+{
+    "user_facts": {},
+    "conversation_history": [
+        "clear",
+        "/clear",
+        "chocolate"
+    ],
+    "bot_state": {
+        "mode": "friendly",
+        "emotion": "neutral"
+    }
+}
